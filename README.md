@@ -93,7 +93,3 @@ local success = lib.skillCheck(Shr.skillCheckLevels, Shr.skillCheckKeys)
 - 🛠️ **Balance Difficulty**: Adjust Shr.skillCheckLevels to suit your server's player base.
 - 🔒 **Roleplay-Ready**: Use this script to enhance immersive scenarios like vehicle thefts or high-stakes missions.
 - 🌟 **Extend Features**: Add rewards or penalties based on success or failure.
-
-## 📜 License
-
-This script is for educational purposes and private server use only. Redistribution without permission is not allowed.
